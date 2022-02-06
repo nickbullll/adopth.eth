@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Link from 'next/link'
+// import Link from 'next/link'
 import s from '../styles/common.module.css'
 
 export default function Home() {
@@ -28,7 +28,7 @@ export default function Home() {
           sapiente velit praesentium ipsum?
         </p>
         <h1 className="text-5xl font-bold mb-6">
-          Now, let's create your first account!
+          Now, let&apos;s create your first account!
         </h1>
         <p className="lg:text-2xl md:text-xl text-lg text-gray-200 max-w-3xl mb-8">
           Lorem ipsum dolor sit amet consectetur adipisicing elit.
