@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className="max-w-3xl w-max mx-auto px-4 py-4 pt-24">
         <h1 className="text-5xl font-bold mb-6">
-          Let's start with keys...
+          Let&apos;s start with keys...
         </h1>
         <p className="lg:text-2xl md:text-xl text-lg text-gray-200 max-w-3xl mb-8">
           Lorem ipsum dolor sit amet consectetur adipisicing elit.
