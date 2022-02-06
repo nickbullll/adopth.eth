@@ -15,13 +15,13 @@ export default function Home() {
         <h1 className="text-5xl font-bold mb-6">
           Let's start with keys...
         </h1>
-        <p className="lg:text-2xl md:text-xl text-lg text-gray-200 max-w-3xl mb-8 sm:mb-6">
+        <p className="lg:text-2xl md:text-xl text-lg text-gray-200 max-w-3xl mb-8">
           Lorem ipsum dolor sit amet consectetur adipisicing elit.
           Quidem eos ducimus quam sequi! Maxime ut odio nemo quo
           delectus sed, quis veritatis vero perferendis sint nihil
           sapiente velit praesentium ipsum?
         </p>
-        <p className="lg:text-2xl md:text-xl text-lg text-gray-200 max-w-3xl mb-8 sm:mb-6">
+        <p className="lg:text-2xl md:text-xl text-lg text-gray-200 max-w-3xl mb-16">
           Lorem ipsum dolor sit amet consectetur adipisicing elit.
           Quidem eos ducimus quam sequi! Maxime ut odio nemo quo
           delectus sed, quis veritatis vero perferendis sint nihil
@@ -30,13 +30,13 @@ export default function Home() {
         <h1 className="text-5xl font-bold mb-6">
           Now, let's create your first account!
         </h1>
-        <p className="lg:text-2xl md:text-xl text-lg text-gray-200 max-w-3xl mb-8 sm:mb-6">
+        <p className="lg:text-2xl md:text-xl text-lg text-gray-200 max-w-3xl mb-8">
           Lorem ipsum dolor sit amet consectetur adipisicing elit.
           Quidem eos ducimus quam sequi! Maxime ut odio nemo quo
           delectus sed, quis veritatis vero perferendis sint nihil
           sapiente velit praesentium ipsum?
         </p>
-        <p className="lg:text-2xl md:text-xl text-lg text-gray-200 max-w-3xl mb-8 sm:mb-6">
+        <p className="lg:text-2xl md:text-xl text-lg text-gray-200 max-w-3xl mb-16">
           Lorem ipsum dolor sit amet consectetur adipisicing elit.
           Quidem eos ducimus quam sequi! Maxime ut odio nemo quo
           delectus sed, quis veritatis vero perferendis sint nihil
